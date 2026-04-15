@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ### 2. Run Analysis
 ```bash
-python select_best_factors.py
+python alpha_factors/select_best_factors.py
 ```
 
 ### 3. View Results

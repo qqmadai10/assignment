@@ -76,7 +76,7 @@ python alpha_factors/select_best_factors.py
 ### 3. View Results
 ```bash
 selected_5_factors.csv - Factor values
-sharp_ratios.csv - Sharpe ratios
+sharpe_ratios.csv - Sharpe ratios
 correlation_matrix.png - Heatmap
 ```
 
